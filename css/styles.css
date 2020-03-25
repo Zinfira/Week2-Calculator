@@ -2,4 +2,33 @@
   height: 50%;
   width: 50%;
   margin-top: 10px;
+  display:block;
+}
+.container1 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  background-color: #bffdff;
+  padding: 20px;
+}
+.container2 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  background-color: #bffdff;
+  padding: 20px;
+}
+.container3 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  background-color: #bffdff;
+  padding: 20px;
+}
+.container4 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  background-color: #bffdff;
+  padding: 20px;
 }
